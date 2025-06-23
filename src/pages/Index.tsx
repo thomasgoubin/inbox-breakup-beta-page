@@ -135,7 +135,7 @@ const Index = () => {
       {/* Pricing */}
       <section className="py-20 px-4">
         <div className="max-w-2xl mx-auto text-center">
-          <div className="bg-gradient-to-br from-slate-800/50 to-slate-700/50 backdrop-blur-sm rounded-2xl p-8 border border-gradient-to-r from-cyan-500/30 to-purple-500/30">
+          <div className="bg-gradient-to-br from-slate-800/50 to-slate-700/50 backdrop-blur-sm rounded-2xl p-8 border border-slate-600/30">
             <h2 className="text-3xl font-bold mb-4 text-cyan-400">Founders-club pricing</h2>
             <div className="text-5xl font-bold mb-4 bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">
               $40 <span className="text-lg text-slate-400">one-time</span>
@@ -192,7 +192,7 @@ const Index = () => {
                 Why only 100 users?
               </AccordionTrigger>
               <AccordionContent className="px-6 pb-4 text-slate-300">
-                Google's restricted scopes require a closed beta + security review. We need to prove the system works perfectly before opening to everyone. Quality > quantity.
+                Google's restricted scopes require a closed beta + security review. We need to prove the system works perfectly before opening to everyone. Quality {'>'}quantity.
               </AccordionContent>
             </AccordionItem>
             
