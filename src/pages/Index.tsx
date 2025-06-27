@@ -141,10 +141,10 @@ const Index = () => {
             {[
               "Auto-unsubscribe on request",
               "Spam obliteration (better than Gmail's)",
-              "'Teach me' feedback loop—agent learns your prefs",
-              "Slack/Discord/Teams integration",
-              "Invoice & receipt auto-filing",
-              "Newsletter digest mode"
+              "'Teach me' feedback loop, agent learns your prefs",
+              "Slack integration (for now)",
+              "Invoice & receipt auto-filing (soon)",
+              "Newsletter digest mode (soon)"
             ].map((feature, index) => (
               <div key={index} className="flex items-center space-x-3 p-4 rounded-xl bg-slate-700/30 hover:bg-slate-700/50 transition-colors">
                 <Check className="w-6 h-6 text-green-400 flex-shrink-0" />
