@@ -135,7 +135,7 @@ const Index = () => {
       <section className="py-20 px-4 bg-slate-800/30">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-4xl font-bold text-center mb-16 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
-            Superpowers included 💌
+            Superpowers included 💌🪄
           </h2>
           <div className="grid md:grid-cols-2 gap-6">
             {[
