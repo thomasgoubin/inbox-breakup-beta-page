@@ -84,7 +84,7 @@ const Index = () => {
       <section className="py-16 px-4">
         <div className="max-w-2xl mx-auto text-center">
           <div className="bg-gradient-to-r from-slate-800/50 to-slate-700/50 backdrop-blur-sm rounded-2xl p-8 border border-slate-600/30">
-            <h2 className="text-3xl font-bold mb-4 text-cyan-400">100 beta slots—first come, first served</h2>
+            <h2 className="text-3xl font-bold mb-4 text-cyan-400">100 beta slots. First come, first served</h2>
             <div className="mb-4">
               <div className="bg-slate-700 rounded-full h-4 overflow-hidden">
                 <div 
@@ -110,7 +110,7 @@ const Index = () => {
               <div className="bg-gradient-to-br from-cyan-500/20 to-purple-500/20 rounded-2xl p-8 mb-6 border border-slate-600/30 group-hover:scale-105 transition-transform duration-300">
                 <Shield className="w-16 h-16 mx-auto mb-4 text-cyan-400" />
                 <h3 className="text-xl font-semibold mb-3">1. Connect Gmail safely</h3>
-                <p className="text-slate-300">OAuth with restricted scopes—we only see what we need to help you</p>
+                <p className="text-slate-300">OAuth with restricted scopes, we only see what we need to help you</p>
               </div>
             </div>
             <div className="text-center group">
