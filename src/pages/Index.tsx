@@ -316,8 +316,8 @@ const Index = () => {
       <footer className="py-12 px-4 border-t border-slate-700/50">
         <div className="max-w-4xl mx-auto text-center">
           <div className="mb-6">
-            <span className="text-2xl">This is fine ☕🔥</span>
-            <p className="text-sm text-slate-400 mt-2">Your inbox doesn't have to be</p>
+            <span className="text-2xl">This coffee is on fire ☕🔥</span>
+            <p className="text-sm text-slate-400 mt-2">Your inbox UI does not have to be</p>
           </div>
           <div className="flex justify-center space-x-6 text-sm text-slate-400">
             <a href="#" className="hover:text-cyan-400 transition-colors">Privacy Policy</a>
