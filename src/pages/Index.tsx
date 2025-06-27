@@ -305,7 +305,7 @@ const Index = () => {
                 Reserve my spot ⚡
               </Button>
               <p className="text-xs text-slate-400 text-center">
-                We'll email next steps—watch for an OAuth link from us.
+                We'll email next steps—watch for a link from us.
               </p>
             </form>
           </div>
@@ -323,7 +323,7 @@ const Index = () => {
             <a href="#" className="hover:text-cyan-400 transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-cyan-400 transition-colors">Terms of Service</a>
             <a href="#" className="hover:text-cyan-400 transition-colors">
-              <X className="w-4 h-4 inline" /> @inboxbreakup
+              <X className="w-4 h-4 inline" /> @napthaAI
             </a>
           </div>
           <p className="text-xs text-slate-500 mt-4">
