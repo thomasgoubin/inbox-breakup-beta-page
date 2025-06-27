@@ -69,7 +69,7 @@ const Index = () => {
             The AI agent that makes you drop Gmail.
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-slate-300 max-w-3xl mx-auto leading-relaxed">
-            Human-in-the-loop AI filters spam, labels what matters, pings you on Slack, and even clicks 'Unsubscribe' for you. ✉️
+            Human-in-the-loop AI Agent that filters spam, labels what matters, pings you on Slack, and even clicks 'Unsubscribe' for you. ✉️
           </p>
           <Button 
             onClick={scrollToSignup}
@@ -116,7 +116,7 @@ const Index = () => {
             <div className="text-center group">
               <div className="bg-gradient-to-br from-purple-500/20 to-pink-500/20 rounded-2xl p-8 mb-6 border border-slate-600/30 group-hover:scale-105 transition-transform duration-300">
                 <Mail className="w-16 h-16 mx-auto mb-4 text-purple-400" />
-                <h3 className="text-xl font-semibold mb-3">2. AI sorts everything</h3>
+                <h3 className="text-xl font-semibold mb-3">2. The AI agent sorts everything</h3>
                 <p className="text-slate-300">Smart labels: Read Now / Read Later / Archive / Invoices / Marketing / Newsletters</p>
               </div>
             </div>
