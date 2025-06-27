@@ -66,7 +66,7 @@ const Index = () => {
         <div className="absolute inset-0 bg-gradient-to-r from-cyan-500/10 via-purple-500/10 to-pink-500/10 animate-pulse"></div>
         <div className="max-w-4xl mx-auto text-center relative z-10 animate-fade-in">
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-400 bg-clip-text text-transparent leading-tight">
-            The AI agent that makes you <em className="italic">drop Gmail</em>—because it finally should.
+            The AI agent that makes you drop Gmail.
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-slate-300 max-w-3xl mx-auto leading-relaxed">
             Human-in-the-loop AI filters spam, labels what matters, pings you on Slack, and even clicks 'Unsubscribe' for you. ✉️
